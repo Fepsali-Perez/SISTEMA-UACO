@@ -1,6 +1,6 @@
 SISTEMA WEB PARA EL CONTROL ESCOLAR DE LA UNIVERSIDAD AUTÓNOMA COMUNAL DE OAXACA
 Clonar el repositorio
-git clone https://github.com/Learsix43/UACO.git
+git clone https://github.com/Fepsali-Perez/SISTEMA-UACO.git
 
 Instalar dependencias para el backend
 cd backend_uaco
